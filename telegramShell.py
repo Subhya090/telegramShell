@@ -3,10 +3,10 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from datetime import datetime
 
 # Telegram Token
-TOKEN='YOUR_TELEGRAM_TOKEN'
+TOKEN='6572573718:AAHRAkfghAKDhR0nWxNR9uQxQrds680JLMc'
 
 # Authorized User ID
-user_id='YOUR_TELEGRAM_USERID'
+user_id='1331345346'
 
 # Check OS
 opsys = platform.system()
